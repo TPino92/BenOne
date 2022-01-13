@@ -10,7 +10,7 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .float-left {
@@ -60,6 +60,7 @@ p {
     display: inline-block;
     margin-left: 25px;
     list-style-type: none;
+    font-size: 24px;
 }
 /*Header End*/
 
@@ -74,7 +75,7 @@ body {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("../images/header1.webp");
     background-size: cover;
     background-position: center;
 }
@@ -132,7 +133,7 @@ body {
 /*Benefits End*/
 
 /*Search Engine Optimization Start*/
-.search-engine-optimization {
+.usage {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -141,18 +142,18 @@ body {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+.usage img {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+.usage h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 /*Search Engine Optimization End*/
 
 /*Online Reputation Management Start*/
-.online-reputation-management {
+.medical-benifits {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -161,18 +162,18 @@ body {
     color: #ffffff;
 }
 
-.online-reputation-management img {
+.medical-benifits img {
     max-height: 200px;
 }
 
-.online-reputation-management h2 {
+.medical-benifits h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 /*Online Reputation Management End*/
 
 /*Social Media Marketing Start*/
-.social-media-marketing {
+.cultivation {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -181,11 +182,11 @@ body {
     color: #ffffff;
 }
 
-.social-media-marketing img {
+.cultivation img {
     max-height: 200px;
 }
 
-.social-media-marketing h2 {
+.cultivation h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
